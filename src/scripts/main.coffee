@@ -213,7 +213,6 @@ class BuilderView extends Backbone.View
     view = new ViewFieldView
       model: responseField
       parentView: @
-
     #####
     # Calculates where to place this new field.
     #
